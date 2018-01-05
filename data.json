@@ -1,0 +1,9 @@
+Let data= {"wines":[
+    {"id":1, "varietal":"Chardonnay", "img": "./img/Chardonnay.jpg", "flavours":"oaky, buttery", "Pair with":"Fettucini Alfredo"},
+    {"id":2, "varietal":"Sauvignon Blanc", "img": "./img/SauvBlanc.jpg", "flavours":"grassy, green bell pepper, crisp", "Pair with":"Roasted vegetables"},
+    {"id":3, "varietal":"Pinot Grigio", "img": "./img/PinotGrigio.jpg", "flavours":"light, lemon", "Pair with":"Grilled halibut"},
+    {"id":4, "varietal":"Chablis", "img": "./img/", "flavours":"flinty", "Pair with":"oysters"},
+    {"id":5, "varietal":"Cabernet Sauvignon", "img": "./img/", "flavours":"full-bodied, dark fruit, bell pepper", "Pair with":"steak"},
+    {"id":6, "varietal":"Zinfandel", "img": "./img/", "flavours":"jam, licorice, smoky finish", "Pair with":"BBQ pork"},
+    {"id":7, "varietal":"Pinot Noir", "img": "./img/","flavours":"roses, berries", "Pair with":"roasted chicken, pasta"}
+]}
